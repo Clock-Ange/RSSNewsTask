@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import AlamofireRSSParser
 import WebKit
 
 class DetailViewController: UIViewController {
